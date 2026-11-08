@@ -1,0 +1,16 @@
+{
+  "name": "Strength & Discipline",
+  "short_name": "Discipline",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#0D0D0D",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAAB/Pny7AAAAZlBMVEUAAAANDQ0MDQwAAAB/f38AAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////8n3aX+AAAAInRSTlMAAAAAEBAQEBAgICAwMDBAQEBAUFBQUGBgcHBwgICAkJCQkOqG8cIAAAGfSURBVHic7dxZjhQxEEVR56z3P2m7gTExqXq90WpT606e/6sA+Pnx8fHz9X3//P35eX9/fH5/vz/eH5+fr8f74/Pj/fXx/vh8f18fn5+fHx8fP18fHx8/Xx8fP18fHx8/Xx8fP18fHx8/Xx8fP18fHx8/X983wK+v/w8853/8fvz6+vP74/7+8fH98f79fX7+/vn+/vz8+v74+fx4fHx/fX19fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8/H5+/AcBbwE7u71w0gAAAABJRU5ErkJggg==",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
